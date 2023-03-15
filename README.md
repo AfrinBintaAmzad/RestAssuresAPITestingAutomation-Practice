@@ -1,8 +1,17 @@
 # RestAssuresAPITestingAutomation-Practice
 
 
+## For Serialization: Take Jackson Datamind from mnvrepository
 
-[necessary doc.txt](https://github.com/AfrinBintaAmzad/RestAssuresAPITestingAutomation-Practice/files/10976579/necessary.doc.txt)
+## Lombok Gradle: 
+	- testCompileOnly 'org.projectlombok:lombok:1.18.26'
+	       
+	- testAnnotationProcessor 'org.projectlombok:lombok:1.18.26'
+
+## Allure Report Generation: 
+	- allure generate allure-results --clean -output allure-report
+	- allure serve allure-results
+
 
 ![RestAssuredPractice-Report](https://user-images.githubusercontent.com/83439797/225222812-c62947f3-9934-4d91-b183-63ff99998167.PNG)
 
