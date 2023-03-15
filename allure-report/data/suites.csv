@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Wed Mar 15 11:59:33 BDT 2023","Wed Mar 15 11:59:33 BDT 2023","159","Dmoney API automation","User API automation","testrunner.userTestRunner","testrunner.userTestRunner","createUser","createUser",""
+"passed","Wed Mar 15 11:59:23 BDT 2023","Wed Mar 15 11:59:25 BDT 2023","1430","Dmoney API automation","User API automation","testrunner.userTestRunner","testrunner.userTestRunner","doLogin","doLogin",""
+"passed","Wed Mar 15 11:59:25 BDT 2023","Wed Mar 15 11:59:33 BDT 2023","7948","Dmoney API automation","User API automation","testrunner.userTestRunner","testrunner.userTestRunner","userSearchById","userSearchById",""
