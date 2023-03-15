@@ -2,6 +2,8 @@
 
 
 ## For Serialization: Take Jackson Datamind from mnvrepository
+-    // https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind
+    implementation group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.14.2'
 
 ## Lombok Gradle: 
 	- testCompileOnly 'org.projectlombok:lombok:1.18.26'
